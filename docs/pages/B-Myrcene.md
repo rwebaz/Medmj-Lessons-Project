@@ -28,9 +28,9 @@ More to come ...
 
 ***
 
-**Note**. The above synopsis was derived from an article written by Jake Felice, MD[[1](#JAKEFELICE){:.red}].
+**Note**. The above synopsis was derived from a YouTube video by Jake Felice, MD[[1](#JAKEFELICE){:.red}].
 
-1. {:#JAKEFELICE}[A You Tube video by Jake Felice, MD circa Dec #2019](https://youtu.be/BGfHmM5Og3w){:title="Click to Review ..."}{:target="_blank"}
+1. {:#JAKEFELICE}[Terpenes in Cannabis Explained by Dr. Jake Felice, Nov #2018](https://youtu.be/BGfHmM5Og3w){:title="Click to Review Terpenes in Cannabis Explained by Dr. Jake Felice"}{:target="_blank"}
 
 ***
 
