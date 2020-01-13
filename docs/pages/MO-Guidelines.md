@@ -130,13 +130,13 @@ This amendment shall hold, or shall not hold.
 
 ***
 
-**Note**. The above synopsis was derived from a set of (.pdf) files published via the State of Missouri Secretary of State website [[1](#STATEOFMO){:.red}].
+**Note**. The above synopsis was derived from a set of (.pdf) files published via the State of Missouri website(s) [[1](#STATEOFMO){:.red}].
 
 1. {:#STATEOFMO}[Landing Page for the Rules of the Department of Health and Senior Services, Division 30 - The Division of Regulation and Licensure - Chapter 95 - Medical Marijuana as certified by the Missouri Secretary of State John R. Ashcroft, Dtd December 31st, 2019](https://health.mo.gov/safety/medical-marijuana/rules.php){:title="Click to Review the Rules of the MO Dept of Health and Senior Services"}{:target="_blank"}
 
 1. {:#STATEOFMO}[The Rules of the Department of Health and Senior Services, Division 30 - The Division of Regulation and Licensure - Chapter 95 - Medical Marijuana as certified by the Missouri Secretary of State John R. Ashcroft, Dtd December 31st, 2019 in PDF](https://docs.google.com/viewerng/viewer?embedded=true&url=https%3A%2F%2Fwww.sos.mo.gov%2FCMSImages%2FAdRules%2Fcsr%2Fcurrent%2F19csr%2F19c30-95.pdf){:title="Click to Review the Rules of the MO Dept of Health and Senior Services"}{:target="_blank"}
 
-1. {:#STATEOFMO}[The Original Petition language from the proposed Amendment 2, Dtd November 6th, 2019 now passed and etched as an amendment to the 4th Missouri State Constitution of 1945, or 4MSC - 1945 and now known as Amendment XVI - 16 of 4MSC - 1945 effective December 8th, 2018 in PDF](https://docs.google.com/viewerng/viewer?embedded=true&url=https%3A%2F%2Fwww.sos.mo.gov%2FCMSImages%2FElections%2FPetitions%2F2018-051.pdf){:title="Click to Review the The Original Petition language from the proposed Amendment 2 in PDF"}{:target="_blank"}
+1. {:#STATEOFMO}[The Original Petition language from the proposed Amendment 2, Dtd November 7th, 2018 now passed and etched as an amendment to the 4th Missouri State Constitution of 1945, or 4MSC - 1945 and now known as Amendment XVI - 16 of 4MSC - 1945 effective December 6th, 2018 in PDF](https://docs.google.com/viewerng/viewer?embedded=true&url=https%3A%2F%2Fwww.sos.mo.gov%2FCMSImages%2FElections%2FPetitions%2F2018-051.pdf){:title="Click to Review the The Original Petition language from the proposed Amendment 2 in PDF"}{:target="_blank"}
 
 ***
 
