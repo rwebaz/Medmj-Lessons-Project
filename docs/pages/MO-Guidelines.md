@@ -126,13 +126,13 @@ A Clone-stage plant is defined as a Cannabis plant of no more than Fourteen (14)
 
 ### Vegetation Stage Plants
 
-A Vegetation-stage plant is defined as a Cannabis plant of more than Fourteen (14) inches in height from its base at the top of its container sans its root system to the tip of its meristem, and is normally kept so by topping and an artificial lighting period of greater than Twelve (12) hours per Twenty-four (24) period as to not induce the flowering stage of the plant.
+A Vegetation-stage plant is defined as a Cannabis plant of more than Fourteen (14) inches in height from its base at the top of its container sans its root system to the tip of its meristem, and is normally kept so by topping and an artificial lighting period of less than Twelve (12) hours of continuous darkness per Twenty-four (24) period as to not induce the flowering stage of the plant.
 
-**Note.** A Vegetation-stage plant is a plant that has progressed in growth beyond its original Clone-stage in height and may also be a plant of any height that is not currently flowering that was originally started with an achene.
+**Note.** A Vegetation-stage plant is a plant that has progressed in growth beyond its original Clone-stage in height and may also be a plant of any height that is not currently flowering that was once originally started with an achene.
 
 ### Flowering Stage Plants
 
-A Flowering-stage plant is defined as a Cannabis plant of unlimited inches in height from its base at the top of its container sans its root system to the tip of its meristem, and is normally kept so by controlled growth under an artificial lighting period of no more than Twelve (12) hours or per Twenty-four (24) hour period as to INDUCE the flowering stage of the plant.
+A Flowering-stage plant is defined as a Cannabis plant of unlimited inches in height from its base at the top of its container sans its root system to the tip of its meristem, and is normally kept so by controlled growth under an artificial lighting period of no more than Twelve (12) hours of continuous light per Twenty-four (24) hour period as to INDUCE the flowering stage of the plant.
 
 **Note.** There is no size limit for a medicinally Flowering Cannabis plant in Missouri either indoors or outdoors as long as the plant is kept within a registered `Enclosed and Locked Private Cultivation Facility`.
 
