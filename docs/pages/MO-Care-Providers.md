@@ -118,6 +118,14 @@ Or, for participating in the cultivation of up to Six (6) of the QMP's allowed a
 
 **Source**: Subsection 5.7 Additional Patient, Physician, Caregiver and Provider Protections of the 4th Missouri Constitution of 1945, as amended, Dtd 12-31-2019, Article XIV (14), Section 1 aka the Medical Cannabis Amendment [[4](#JOHNASHCROFT){:.red}].
 
+#### Threes The Charm
+
+A Licensed Caregiver/Care Provider can serve up to Three (3) Qualified Medical Patients, or QMPs.
+
+If a Licensed Caregiver/Care Provider is obtaining a cultivation license on behalf of multiple patients, he or she must have a cultivation license for each patient.
+
+**Source**: Missouri Cannabis Patient Information Pamphlet #205, Home Cultivation, Page 8. [[5](#INFOPAMPHLET205){:.red}].
+
 ## Authority to Cultivate
 
 A "standard" QMP that also holds an 'Authority to Cultivate' may possess the above standard Sixty (60) day supply of dried, un-processed Cannabis flowers, or its processed equivalent plus an additional Thirty (30) day supply, for a total possession limit of Twelve (12) ounces of dried, un-processed Cannabis flowers, or its processed equivalent.
@@ -140,13 +148,47 @@ c.) The QMP is required to obtain and maintain an 'Authority to Cultivate' from 
 
 **Source**: Subsection 7.09 Additional Provisions of the Rules of the MO Department of Health and Senior Services [[1](#MORULESLAND){:.red}]
 
+#### Single QMPs
+
+>Each Qualifying Medical Patient, or QMP that holds a valid 'Authority to Cultivate' Identification Card, or ID may cultivate no more than Six (6) Flowering-stage plants plus Six (6) Vegetative-stage plants plus Six (6) Clone-stage plants in a single `Enclosed and Locked Private Cultivation Facility`.
+
+**Source**: Subsection 7.9 Additional Provisions of the 4th Missouri Constitution of 1945, as amended, Dtd 12-31-2019, Article XIV (14), Section 1 aka the Medical Cannabis Amendment [[4](#JOHNASHCROFT){:.red}].
+
 #### Shared Cultivation Facilities
 
 Two (2) QMPs that separately both hold an 'Authority to Cultivate' may share One (1) registered `Enclosed and Locked Private Cultivation Facility`.
 
-In addition, if the LPC is also a QMP, then he or she may share the subject One (1) registered `Enclosed and Locked Private Cultivation Facility` for the purpose of growing their own allotment of medical Cannabis flowers, as well.
+For example, a husband and wife team that are both QMPs.
 
-**Source**: Subsection 7.9 Additional Provisions of the 4th Missouri Constitution of 1945, as amended, Dtd 12-31-2019, Article XIV (14), Section 1 aka the Medical Cannabis Amendment [[4](#JOHNASHCROFT){:.red}].
+In addition, if the `Enclosed and Locked Private Cultivation Facility` is registered as a cultivation site by an Licensed Care Provider, or LCP and that LPC is also a QMP, then he or she may not only share the registered `Enclosed and Locked Private Cultivation Facility` for the purpose of growing his or her own allotment of medical Cannabis flowers, but may also share the facility with another Qualified Medical Patient, or QMP for a total of Three (3) maximum QMPs at a single, registered `Enclosed and Locked Private Cultivation Facility`.
+
+**Source**: Subsection 7.9 Additional Provisions of the 4th Missouri Constitution of 1945, as amended, Dtd 12-31-2019, Article XIV (14), Section 1 aka the Medical Cannabis Amendment [[4](#JOHNASHCROFT){:.red}] and the Missouri Cannabis Patient Information Pamphlet #205, Home Cultivation, Page 8. [[5](#INFOPAMPHLET205){:.red}].
+
+#### Multiple QMPs
+
+>Two (2) Qualifying Medical Patients, or QMPs that both hold valid 'Authority to Cultivate' Identification Cards, or IDs may share One (1) `Enclosed and Locked Private Cultivation Facility`.
+
+**Source**: Missouri Cannabis Patient Information Pamphlet #205, Home Cultivation, Page 8. [[5](#INFOPAMPHLET205){:.red}].
+
+##### Plant Numbers
+
+>No more than Twelve (12) Flowering-stage plants plus Twelve (12) Vegetative-stage plants plus Twelve (12) Clone-stage plants may be cultivated in a single `Enclosed and Locked Private Cultivation Facility` UNLESS ...
+
+##### Exception For QMP/LCP
+
+>... One (1) of the Qualifying Medical Patients, or QMPs assigned to the single `Enclosed and Locked Private Cultivation Facility` is also a primary Licensed Caregiver/Care Provider, or LCP holding a valid 'Authority to Cultivate' Identification Card, or ID for another 3rd party QMP!
+
+**Source**: Missouri Cannabis Patient Information Pamphlet #205, Home Cultivation, Page 8. [[5](#INFOPAMPHLET205){:.red}].
+
+##### Expanded Plant Numbers
+
+>In such a case as described above, the primary Licensed Caregiver/Care Provider, or LCP may cultivate an additional Six (6) Flowering-stage plants plus an additional Six (6) Vegetative-stage plants plus an additional Six (6) Clone-stage plants for the 3rd party QMP ...
+
+##### Grand Total of Allowable Plants
+
+>... For a total of Eighteen (18) Flowering-stage plants plus Eighteen (18) Vegetative-stage plants plus Eighteen (18) Clone-stage plants in a single `Enclosed and Locked Private Cultivation Facility` for a grand total of Fifty-four (54) plants.
+
+**Source**: Missouri Cannabis Patient Information Pamphlet #205, Home Cultivation, Page 8. [[5](#INFOPAMPHLET205){:.red}].
 
 ## 3rd Party Contracts
 
@@ -259,6 +301,8 @@ The 4th Missouri Constitution of 1945, as amended, under Article XIV (14) as cer
 1. {:#AMEND2}[The Original Petition language from the proposed Amendment 2, Dtd November 7th, 2018 now passed and etched as an amendment to the 4th Missouri State Constitution of 1945, or 4MSC - 1945 and now known as Article XIV (14) of 4MSC - 1945, effective December 6th, 2018 in PDF format via Google Docs](https://docs.google.com/viewerng/viewer?embedded=true&url=https%3A%2F%2Fwww.sos.mo.gov%2FCMSImages%2FElections%2FPetitions%2F2018-051.pdf){:title="Click to Review the The Original Petition language from the proposed Amendment 2 in PDF format"}{:target="_blank"}
 
 1. {:#JOHNASHCROFT}[4th Missouri Constitution of 1945, as amended](https://www.sos.mo.gov/pubs/constitution){:title="Click to Review the 4th Missouri Constitution of 1945, as amended, January 2019"}{:target="_blank"}
+
+1. {:#INFOPAMPHLET205}[Missouri Cannabis Patient Information Pamphlet #205](https://health.mo.gov/safety/medical-marijuana/pdf/205.pdf){:title="Click to Review the Missouri Cannabis Patient Information Pamphlet #205"}{:target="_blank"}
 
 ***
 
