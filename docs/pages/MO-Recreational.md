@@ -108,6 +108,12 @@ Article XIV (14) of the Missouri Constitution of 1945, as adopted and effective 
 
 A 'Qualifying Medical Patient', or QMP or his or her Licensed Primary Caregiver, or LPC may obtain a Twelve (12) month Identification Card, or ID stamped with an 'Authority to Cultivate' up to Six (6) Flowering-stage plants at a single location for exclusive usage by the underlying QMP in exchange for $100 cash.
 
+**Note**. There are over Thirty-thousand (30,261) QMPs registered in Missouri as of January 27th, 2020.
+
+Another Nine-thousand (9,709) individuals have opted to pony up the extra One-hundred ($100) cash to have the term 'Authority to Cultivate' stamped on their now annual license.
+
+Plus, over Eight-hundred (840) entities have registered as licensed Caregivers, as well.
+
 ### Physician Recommendation
 
 A new or updated physician's certification is required for each and all subsequent Twelve (12) month periods.
