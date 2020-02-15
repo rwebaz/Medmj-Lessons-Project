@@ -4,7 +4,7 @@ layout: default
 excerpt: Place the introducing line of text ie.) the 'tagline' here ...
 hint: Place the intro paragraph ie.) the 'hypothesis' here ...
 repo: Medmj-Lessons-Project
-ver_date: 01-13-20
+ver_date: 02-14-20
 navigation_weight: 8
 categories: page
 ---
