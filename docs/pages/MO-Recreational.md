@@ -20,7 +20,7 @@ From the end of World War II in 1945 until the signing of the Civil Rights bill 
 
 Sounds like we're making progress, eh?
 
-Until you realize its been 2020 - 1965 = 35 + 20 = 65 years from today all the way back to LBJ's famous signing!
+Until you realize its been 2020 - 1965 = 35 + 20 = 55 years from today all the way back to LBJ's famous signing!
 
 ### Keep Rolling
 
@@ -50,7 +50,7 @@ Sound familiar?
 
 Fast forward to today, in November of 2020, the citizens of another province of this great country, the former home of the Osage and Missouria tribes of native Americans ...
 
-Here in the very center on the land and peoples at the confluence of the two great North American rivers,
+Here in the very center of the country, on the land and with the peoples of the confluence of the two great North American rivers,
 
 We find ourselves voting this year on whether or not a "black" man or a "white" man or a "red" man shall be awarded a license to grow One-hundred fifty (150) Cannabis plants under a combination of artificial and natural greenhouse sunlight.
 
@@ -58,7 +58,7 @@ We find ourselves voting this year on whether or not a "black" man or a "white" 
 
 The cost of the proposed "micro" license to grow up to One-hundred fifty (150) Cannabis plants is a Fifteen-hundred ($1,500) non-refundable cash deposit ...
 
-Along with a complete and thorough application that will be scored by an independent 3rd party with alleged ties to the unaccredited, for-profit Oaksterdam college of California ...
+Along with a complete and thorough application that will be scored by an independent 3rd party with alleged ties to the un-accredited, for-profit Oaksterdam college of California ...
 
 For the benefit of the MO Dept of Health and Human Services and all persons well versed in the nuances of Cannabis application submission tests, that happen to be also taught for a fee at Oaksterdam college, of course!
 
@@ -96,9 +96,9 @@ But, how many of THOSE applications were awarded "Macro" licenses to cultivate, 
 
 The State of Missouri through the MO Dept of Health and Human Services received over Two-thousand (2,266) applications for "Macro" licenses filed by at least Seven-hundred (700) separate and distinct groups of investors.
 
-The MO Dept of Health and Human Services to date has awarded Sixty (60) "Macro" cultivation licenses, Eighty-six (86) "Macro" infused products licenses, and One-hundred Ninety-two (192) "Macro" dispensary licenses.
+The MO Dept of Health and Human Services to date has awarded Sixty (60) "Macro" 'Medical Marijuana' Cultivation licenses, Eighty-six (86) "Macro" infused products licenses, and One-hundred Ninety-two (192) "Macro" dispensary licenses.
 
-**Note**. Each "Macro" Cultivation facility license allows for the cultivation of up to Two-thousand Five-hundred (2,500) plants.
+**Note**. Each "Macro" 'Medical Marijuana' Cultivation facility license allows for the cultivation of up to Two-thousand Five-hundred (2,500) plants.
 
 Datz a Lot-O-Dweeb!
 
